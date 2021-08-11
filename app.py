@@ -45,3 +45,9 @@ def search_imdb(query_string):
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port="5000")
 
+
+#if want to add commits,
+# git add .
+# git commit -m "xx"
+# git push origin main
+# git push heroku main
